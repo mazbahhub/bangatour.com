@@ -1,0 +1,6 @@
+{
+  "name": "Discover Bangladesh",
+  "description": "A Land of Rivers, Stories & Wonders — Premium cinematic destination guide and trip planner for international travelers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
